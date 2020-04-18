@@ -18,6 +18,8 @@ check [this link](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/
 
 
 ```
+
+
 STEP2:
   - OPEN chrome 
   - OPEN www.douban.com
@@ -31,15 +33,23 @@ STEP2:
 
 ```
 
-[LIMITATION]: 
-Cuz douban.com doesn't show all rating records
-So these script cannot grab all moggots' id
-For now it loops records both in hot/new pannels as more as it could be.
-You better repeat it in a few hours, to block new added.
 
-For default, all rating higher than 3 (>3) will be blocked
-But it's configuable if you know how to do.
+LIMITATION: 
 
+- Cuz douban.com doesn't show all rating records;
+- So these script cannot grab all moggots' id;
+- For now it loops records both in hot/new pannels as more as it could be;
+- You better repeat it in a few hours, to block new added;
+- For default, all rating higher than 3 (>3) will be blocked;
+- But it's configuable if you know how to do;
+
+
+
+
+
+
+
+--------
 
 <a href="https://www.patreon.com/user/TakehisaYumeji">
   <img src="https://www.buymeacoffee.com/assets/img/logo-bmc.svg" align="left" width="240" >
