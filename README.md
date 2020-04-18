@@ -6,7 +6,7 @@ The scirpt seperated in 2 steps
 
 STEP1:
   - OPEN chrome 
-  - OPEN music.douban.com
+  - OPEN [music.douban.com](music.douban.com)
   - OPEN Console panel cmd+option+J(MAC) Ctrl+Shift+J(WIN)
   - COPY and PASTE the codes below into the pannel
   - PRESS enter
@@ -22,7 +22,7 @@ function acquireMaggotListFromCollections(t=0,n=40){return new Promise((a,e)=>{$
 
 STEP2:
   - OPEN chrome 
-  - OPEN www.douban.com
+  - OPEN [www.douban.com](www.douban.com)
   - OPEN Console panel cmd+option+J(MAC) Ctrl+Shift+J(WIN)
   - COPY and PASTE the codes below into the pannel
   - YOU will see a button added in the side board
