@@ -44,7 +44,16 @@ LIMITATION:
 - But it's configuable if you know how to do;
 
 
+TODO:
+- Will be add more filters to as many as moggots
+- Maybe a chrome extension auto cronjob, but not be sure now, cuz it's only a trending
 
+Some views:
+- When the website is not on our side, we need to protect ourselves
+- I don't think there are 95% moggots now, They are loud only cuz the totalitarianism is on their side
+- The worst case scenario is to rebuild an Internet, no big deal
+- Keep happy yourself
+ 
 
 
 
