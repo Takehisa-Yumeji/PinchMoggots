@@ -18,3 +18,6 @@ check [this link](https://github.com/CN-Chrome-DevTools/CN-Chrome-DevTools/blob/
 
 
 ```
+<a href="https://www.patreon.com/user/TakehisaYumeji">
+  <img src="https://www.buymeacoffee.com/assets/img/logo-bmc.svg" align="left" width="240" >
+</a>
