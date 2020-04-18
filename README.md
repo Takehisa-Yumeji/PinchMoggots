@@ -45,11 +45,11 @@ LIMITATION:
 
 
 TODO:
-- Will be add more filters to as many as moggots
-- Maybe a chrome extension auto cronjob, but not be sure now, cuz it's only a trending
+- Will be add more filters for distinguishing
+- Maybe a chrome extension with auto cronjob, but not be sure now, cuz it's only a trending not life
 
 Some views:
-- When the website is not on our side, we need to protect ourselves
+- When the website is not on your side, you need to protect yourselves
 - I don't think there are 95% moggots now, They are loud only cuz the totalitarianism is on their side
 - The worst case scenario is to rebuild an Internet, no big deal
 - Keep happy yourself
