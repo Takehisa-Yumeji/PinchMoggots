@@ -45,8 +45,8 @@ LIMITATION:
 
 
 TODO:
-- Will be add more filters for distinguishing
-- Maybe a chrome extension with auto cronjob, but not be sure now, cuz it's only a trending not life
+- [X] Will be add more filters for distinguishing
+- [ ] Maybe a chrome extension with auto cronjob, but not be sure now, cuz it's only a trending not life
 
 Some views:
 - When the website is not on your side, you need to protect yourselves
@@ -54,9 +54,10 @@ Some views:
 - The worst case scenario is to rebuild an Internet, no big deal
 - Keep happy yourself
  
-
-
-
+UPDATED:
+- Clerifying the data source
+- Support finding moggots from reviews\comments\collections and more
+- Improve user experience, more console info
 
 --------
 
