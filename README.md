@@ -1,4 +1,4 @@
-# PitchMoggots
+# PinchMoggots
 A scripts set to block NMSLeses in https://music.douban.com/subject/35030138/
 
 The scirpt seperated in 2 steps
