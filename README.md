@@ -26,6 +26,7 @@ STEP2:
   - OPEN Console panel cmd+option+J(MAC) Ctrl+Shift+J(WIN)
   - COPY and PASTE the codes below into the pannel
   - YOU will see a button added in the side board
+  - ![](tip.png)
   - CLICK the button and select the .json file you saved in STEP1
   - Have a rest to see moggots blocked
 
