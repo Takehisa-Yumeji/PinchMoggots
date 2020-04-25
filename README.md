@@ -60,12 +60,12 @@ UPDATED:
 - Support finding moggots from reviews\comments\collections and more
 - Improve user experience, more console info
 
+
+Copyright
+Licensed under the MIT license.
+
 --------
 
 <a href="https://www.patreon.com/user/TakehisaYumeji">
   <img src="https://www.buymeacoffee.com/assets/img/logo-bmc.svg" align="left" width="240" >
 </a>
-
-
-Copyright
-Licensed under the MIT license.
