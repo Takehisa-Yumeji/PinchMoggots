@@ -66,3 +66,8 @@ UPDATED:
   <img src="https://www.buymeacoffee.com/assets/img/logo-bmc.svg" align="left" width="240" >
 </a>
 
+Credits
+Written by Tomás Pollak, with the help of contributors.
+
+Copyright
+(c) Fork Ltd. Licensed under the MIT license.
