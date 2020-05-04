@@ -3,7 +3,9 @@ A scripts set to block NMSLeses in https://music.douban.com/subject/35030138/
 
 The scirpt seperated in 2 steps
 
-PATCH: ( According a bug issue provided by '水泥' 
+
+ONLY RUN THIS IF YOU EXCUTED OTHERS BEFORE!!!
+PATCH: ( According a bug issue provided by '水泥')
   - OPEN chrome 
   - OPEN [www.douban.com](www.douban.com)
   - OPEN Console panel cmd+option+J(MAC) Ctrl+Shift+J(WIN)
