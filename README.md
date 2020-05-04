@@ -5,6 +5,7 @@ The scirpt seperated in 2 steps
 
 
 ONLY RUN THIS IF YOU EXCUTED OTHERS BEFORE!!!
+
 PATCH: ( According a bug issue provided by '水泥')
   - OPEN chrome 
   - OPEN [www.douban.com](www.douban.com)
